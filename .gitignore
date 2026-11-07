@@ -1,0 +1,8 @@
+# PyTorch checkpoints and pickled objects
+*.pth
+*.pkl
+
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
